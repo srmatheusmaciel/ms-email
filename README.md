@@ -25,7 +25,7 @@ Certifique-se de que os seguintes componentes estejam instalados:
 
 ### 2. Configuração do Banco de Dados
 1. Instale o PostgreSQL e o pgAdmin 4.
-2. Crie um banco de dados chamado `ms/email`.
+2. Crie um banco de dados chamado `ms-email`.
 3. Configure um usuário e senha no PostgreSQL (exemplo: `username=postgres`, `password=admin`).
 4. Atualize as credenciais no arquivo `application.properties` do projeto.
 

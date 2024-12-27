@@ -1,4 +1,4 @@
-# Email Service
+# Microserviço de envio de email
 
 Este é um microserviço para envio de emails, desenvolvido com Spring Boot, Java 17, e Maven. Ele utiliza o SMTP do Gmail para envio de mensagens e o banco de dados PostgreSQL 16 para persistência. A gestão do banco pode ser realizada pelo pgAdmin 4.
 

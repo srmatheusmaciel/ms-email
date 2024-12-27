@@ -25,7 +25,7 @@ Certifique-se de que os seguintes componentes estejam instalados:
 
 ### 2. Configuração do Banco de Dados
 1. Instale o PostgreSQL e o pgAdmin 4.
-2. Crie um banco de dados chamado `email_service`.
+2. Crie um banco de dados chamado `ms/email`.
 3. Configure um usuário e senha no PostgreSQL (exemplo: `username=postgres`, `password=admin`).
 4. Atualize as credenciais no arquivo `application.properties` do projeto.
 
@@ -49,8 +49,8 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/seu-repositorio/email-service.git
-cd email-service
+git clone https://github.com/seu-repositorio/ms-email.git
+cd ms-email
 ```
 
 ### 2. Compile o Projeto

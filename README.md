@@ -49,7 +49,7 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/seu-repositorio/ms-email.git
+git clone https://github.com/srmatheusmaciel/ms-email.git
 cd ms-email
 ```
 
